@@ -1,13 +1,4 @@
 # Artificial-Sign-Language-ASL-
-
-Contributors to the Project: 
-- Pooja Patel
-- Mohsin Shah
-- Ananya Shekhawat
-- Emma Azzi
-- Cyril Bou-Harb
-- Hassan Shah
-
 Our program connects to our laptop's camera so we can track our hands movements, thus, we were able to translate American Sign Language into English text
 in a live video feed using artificial intelligence. We used specific libraries in python to open our laptop's camera and track our hands. OpenCV and
 MediaPipe allowed us to collect sensory data that was captured with our computer's camera. With both of these libraries, we could track our hands when they

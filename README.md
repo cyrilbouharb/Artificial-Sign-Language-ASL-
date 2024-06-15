@@ -14,4 +14,5 @@ ASL sign to the correct word or phrase in English. Thus, when we ran our program
 
 https://user-images.githubusercontent.com/114703081/236526471-d1f0bb56-cbdf-4bdf-98f2-f163dc0794d8.mp4
 
+![image](https://github.com/cyrilbouharb/Artificial-Sign-Language-ASL-/assets/55791197/38e654e0-1616-4547-9a65-99cbb1edb812)
 
